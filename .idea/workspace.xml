@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc148d79-7088-4507-9e88-e7cad9ed5f61" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README_TEST.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestngTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestngTest.java" afterDir="false" />
     </list>
@@ -48,7 +47,7 @@
     "TestNG.SeleniumTestngTest.executor": "Run",
     "TestNG.SeleniumTestngTest.horizontalSliderTest.executor": "Run",
     "TestNG.SeleniumTestngTest.myTest.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "forSeleniumTestngHomework",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Svitlana/AUTO QA/2-testng-selenium-css-xpath-locators-SvitlanaSorokatiuk",
     "project.structure.last.edited": "Modules",
