@@ -63,6 +63,7 @@ public class SeleniumTestngTest extends BasicSetupTest {
         }
     }
 
+    
     @Test
     public void dropdownTest() throws InterruptedException {
         browser.get("https://the-internet.herokuapp.com/dropdown");
