@@ -28,9 +28,9 @@ public class SeleniumTestngTest extends BasicSetupTest {
 
     //@Test
     //public void abTestingPageHasAnotherSpecificTextTest() throws InterruptedException {
-      //  browser.get("https://the-internet.herokuapp.com/abtest");
-        //WebElement abTestingAnotherTaskLink = browser.findElement(By.linkText("A/B Test Control"));
-        //Assert.assertTrue(true);
+    //  browser.get("https://the-internet.herokuapp.com/abtest");
+    //WebElement abTestingAnotherTaskLink = browser.findElement(By.linkText("A/B Test Control"));
+    //Assert.assertTrue(true);
     //}
 
     @Test
@@ -63,7 +63,7 @@ public class SeleniumTestngTest extends BasicSetupTest {
         }
     }
 
-    
+
     @Test
     public void dropdownTest() throws InterruptedException {
         browser.get("https://the-internet.herokuapp.com/dropdown");
